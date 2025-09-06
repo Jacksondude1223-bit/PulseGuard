@@ -1,7 +1,7 @@
 fx_version "cerulean"
 game "gta5"
 
-author "SecureServe.net"
+author "n/a"
 version "1.2.1"
 
 files {
